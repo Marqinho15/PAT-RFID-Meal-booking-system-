@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_Recordset1" value="name:rfid_a;datatype:string,name:n_proc;datatype:string,name:nome_a;datatype:string,name:password_a;datatype:string,name:id_turma;datatype:int,name:foto_a;datatype:string" />
-</info>
