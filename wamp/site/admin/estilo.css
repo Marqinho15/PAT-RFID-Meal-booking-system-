@@ -1,0 +1,50 @@
+/*INICIO*/
+*{margin:0; padding:0;}
+
+/*TOPO*/
+#body {background: #FFF repeat-x;}
+#box {width:960px; margin:0 auto;}
+
+
+#header {height:96px; background:#fff;}
+#logo {float:left;margin:0px}
+
+/*Menu*/
+#menu {height:30px; background:url(../images/menu.jpg);}
+#menu a {float:left; text-decoration:none; color:#FFF; font:16px "Trebuchet MS", Arial, Helvetica, sans-serif; padding:5px 15px;}
+#menu a:hover {background:url(../images/menu_hover.jpg) repeat-x;}
+#menu img {float:left;}
+
+
+
+#content {background-color: #008b0C;
+overflow: hidden;
+width: 960x;
+margin: 	auto;
+}
+#conteudo {width:629px;  padding:5px; text-align:left; font:"Trebuchet MS", Arial, Helvetica, sans-serif; color:#333; background:#008B0C; float: left; border-right: 321px solid #0E0E0E; margin-right: -321px}
+#conteudo h1 {font:18px Tahoma, Geneva, sans-serif; color:#F00; border-bottom:3px solid #333; margin 0 0 5px 0; padding: 0 0 3px 0;}
+#conteudo h2 {font:16px Tahoma, Geneva, sans-serif; color:#999; font-weight:bold;}
+#conteudo p {margin: 10px 0 10px 0;}
+#conteudo a {text-decoration:none; color:#FFF;}
+#conteudo a:hover {color:#999; }
+#conteudo m {color: #F00; font-weight:bold;}
+
+#sidebar {width:311px; padding:5px; text-align:left; font :12px Tahoma, Geneva, sans-serif; color:#06C; font-weight:bold; background:#0E0E0E; float: right;}
+#sidebar h1 {font:18px Tahoma, Geneva, sans-serif; color:#FF0; font-weight:bold; }
+#sidebar h2 {font:15px Tahoma, Geneva, sans-serif; color:#F00; font-weight:bold;}
+#sidebar p {margin: 15px 0 10px 0;}
+#sidebar p2 {margin: 0 14px 0 0;}
+#sidebar p3 {margin: 0 47px 0 0;}
+#sidebar p4 {margin: 0 50px 0 0;}
+
+#cont_spac { width:629px; background:url(../images/spac_menu.fw.png) no-repeat;}
+
+
+#spacer {height:6px; background:url(../images/spacer.jpg) no-repeat;}
+#box2 {width:960px; margin:0 auto;}
+#footer {width:629px; margin:0 auto; padding: 50x; height:72px; padding: 5px;background:url(../images/rodape5.jpg) no-repeat bottom; float: left;}
+#footer2 {width:311px; margin:0 auto; height:27px; padding: 5px; background: #0E0E0E no-repeat bottom ; float: right;}
+#footer3 {width:311px; margin:0 auto; height:35px; padding: 5px; background: #999 no-repeat bottom; float: right;}
+
+#divclear {clear:both;}

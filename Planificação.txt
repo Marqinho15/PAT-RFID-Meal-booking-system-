@@ -1,0 +1,24 @@
+Desenvolvimento de sistema de marcação de almoços.
+
+Necessário:
+MySQL
+Apache
+WampServer
+Dreamweaver
+Leitor de RFID
+
+
+Objetivos:
+
+Criaçao de um site onde os alunos possam marcar as senhas através da internet, sendo que o dia irá ficar referenciado na base de dados
+Criaçao de base de dados com os alunos da escola 
+Ligaçao do Leitor RFID ao computador e fazer a integraçao dos dados interpretados do cartao e comparaçao com os dados da base de dados marcando as senhas como usadas.
+Possibilidade de Cancelar as senhas até 2 dias antes do dia de almoço
+Marcação maxima ate 2 dias antes do dia de almoço.
+
+Criaçao de formulario interligado com a base de dados
+
+
+
+Objetivos futuros:
+Desenvolvimento de um software ( passivel de ser utilizado noutras escolas maiores ) para marcação de senhas em computadores disponibilizados pela escola, possibilidade de marcação tambem pela internet, e na opçao de Superuser do software, a possibilidade de carregamento do cartao com saldo para as senhas e ou gastar no bufete/papelaria da escola. Desenvolver um catalogo dos produtos com os preços referenciados + quantidade desejada, (ou alimento) para ser selecionado e marcado como adquirido pelo aluno sendo que lhe sera subtraido automaticamente o valor ao seu saldo.

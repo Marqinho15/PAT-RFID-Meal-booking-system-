@@ -1,0 +1,12 @@
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\bin\Debug\Login RFID.exe.config
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\bin\Debug\Login RFID.exe
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\bin\Debug\Login RFID.pdb
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\bin\Debug\Login RFID.xml
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login_RFID.Form1.resources
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login_RFID.Resources.resources
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login RFID.vbproj.GenerateResource.Cache
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login RFID.exe
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login RFID.xml
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login RFID.pdb
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login_RFID.Form4.resources
+I:\PAT Criacao Sistema Almocos RFID\Testes\Cliente de Entrada Leitor RFID\Login RFID\Login RFID\obj\Debug\Login_RFID.Form6.resources
