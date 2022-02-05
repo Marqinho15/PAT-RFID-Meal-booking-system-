@@ -1,0 +1,61 @@
+Installing Apache HTTP 2.0 server with
+ DomainName =    example.com
+ ServerName =    www.example.com
+ ServerAdmin =   admin@example.com
+ ServerPort =    80
+ ServerSslPort = 80
+ ServerRoot =    c:/apache2
+Rewrote docs/conf/extra/httpd-autoindex.conf.in
+ to c:/apache2/conf/original/extra/httpd-autoindex.conf
+Rewrote docs/conf/extra/httpd-default.conf.in
+ to c:/apache2/conf/original/extra/httpd-default.conf
+Rewrote docs/conf/extra/httpd-ssl.conf.in
+ to c:/apache2/conf/original/extra/httpd-ssl.conf
+Rewrote docs/conf/extra/httpd-multilang-errordoc.conf.in
+ to c:/apache2/conf/original/extra/httpd-multilang-errordoc.conf
+Rewrote docs/conf/extra/httpd-info.conf.in
+ to c:/apache2/conf/original/extra/httpd-info.conf
+Rewrote docs/conf/extra/httpd-userdir.conf.in
+ to c:/apache2/conf/original/extra/httpd-userdir.conf
+Rewrote docs/conf/extra/httpd-mpm.conf.in
+ to c:/apache2/conf/original/extra/httpd-mpm.conf
+Rewrote docs/conf/httpd.conf.in
+ to c:/apache2/conf/original/httpd.conf
+Rewrote docs/conf/extra/httpd-vhosts.conf.in
+ to c:/apache2/conf/original/extra/httpd-vhosts.conf
+Rewrote docs/conf/extra/httpd-dav.conf.in
+ to c:/apache2/conf/original/extra/httpd-dav.conf
+Rewrote docs/conf/extra/httpd-languages.conf.in
+ to c:/apache2/conf/original/extra/httpd-languages.conf
+Rewrote docs/conf/extra/httpd-manual.conf.in
+ to c:/apache2/conf/original/extra/httpd-manual.conf
+Duplicated c:/apache2/conf/original/extra/httpd-autoindex.conf
+ to c:/apache2/conf/extra/httpd-autoindex.conf
+Duplicated c:/apache2/conf/original/extra/httpd-default.conf
+ to c:/apache2/conf/extra/httpd-default.conf
+Duplicated c:/apache2/conf/original/extra/httpd-ssl.conf
+ to c:/apache2/conf/extra/httpd-ssl.conf
+Duplicated c:/apache2/conf/original/extra/httpd-multilang-errordoc.conf
+ to c:/apache2/conf/extra/httpd-multilang-errordoc.conf
+Duplicated c:/apache2/conf/original/extra/httpd-info.conf
+ to c:/apache2/conf/extra/httpd-info.conf
+Duplicated c:/apache2/conf/original/extra/httpd-userdir.conf
+ to c:/apache2/conf/extra/httpd-userdir.conf
+Duplicated c:/apache2/conf/original/extra/httpd-mpm.conf
+ to c:/apache2/conf/extra/httpd-mpm.conf
+Duplicated c:/apache2/conf/original/httpd.conf
+ to c:/apache2/conf/httpd.conf
+Duplicated c:/apache2/conf/original/magic
+ to c:/apache2/conf/magic
+Duplicated c:/apache2/conf/original/charset.conv
+ to c:/apache2/conf/charset.conv
+Duplicated c:/apache2/conf/original/extra/httpd-vhosts.conf
+ to c:/apache2/conf/extra/httpd-vhosts.conf
+Duplicated c:/apache2/conf/original/extra/httpd-dav.conf
+ to c:/apache2/conf/extra/httpd-dav.conf
+Duplicated c:/apache2/conf/original/mime.types
+ to c:/apache2/conf/mime.types
+Duplicated c:/apache2/conf/original/extra/httpd-languages.conf
+ to c:/apache2/conf/extra/httpd-languages.conf
+Duplicated c:/apache2/conf/original/extra/httpd-manual.conf
+ to c:/apache2/conf/extra/httpd-manual.conf
