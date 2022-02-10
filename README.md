@@ -2,7 +2,7 @@
 Course final evaluation project. 
 This project let the people of a school to see the menu and book meals online and validating them with a rfid card.
 
-For this project I have learned SQL, PHP, VB, HTML by myself during the school time, because even some languages were teached like VB that only happened after I've used it on this project.
+For this project I have learned SQL, PHP, VB, HTML by myself during the school time, because even if some languages were teached, like VB, that only happened after I've used it on this project.
 
 The website hosting was done in localhost using the wampserver package.
 
